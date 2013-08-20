@@ -1,0 +1,15 @@
+*** Developer-Portfolio   ***
+*** Mathias Muenscher     *** 
+Student for Applied Informatics, HTW Berlin,
+Diplom-Volkswirt (MSc Econ)
+Email:
+Mathias.Muenscher@gmx.de
+
+*** Program: Binary Tree ***
+The programs manages data in a binary tree. You can load given data from a file with menu option 8.
+Interaction in German.
+
+Code is already compiled to a Java Archive. The Source is at
+src/
+Run:
+java -jar BinBaum.jar 
